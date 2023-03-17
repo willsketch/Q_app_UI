@@ -1,0 +1,4 @@
+*.sqlite3
+.python-version
+Q_app/__pycache__
+Q_app_ui/__pycache__
